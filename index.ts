@@ -1,3 +1,4 @@
+#! /urs/bin/env node
 import inquirer from "inquirer";
 let myBlance = 4000; //Dollar
 let mypin = 1122;
