@@ -1,6 +1,6 @@
 {
-  "name": "za80-atm_project",
-  "version": "1.0.0",
+  "name": "za80-atm-machine-project",
+  "version": "2.0.0",
   "description": "",
   "main": "index.js",
   "type": "module",
